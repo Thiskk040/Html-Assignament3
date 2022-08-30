@@ -1,0 +1,71 @@
+h1
+{
+    text-align: center ;
+}
+body
+{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ingredent
+{
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#cinnamon_main
+{
+   width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#how_to_do
+{
+    width: 1000px;
+    height: 1500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2
+{
+   text-align: center;
+   background-color: darkgoldenrod;
+}
+p
+{
+  font-family: cursive;
+  display: flex;
+  font-size: large;
+
+}
+.cinnamon_class
+{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+   
+}
+.cinnamon_class > div
+{
+    width: 800px;
+    margin: 10px;
+    line-height: 75px;
+    
+}
+blockquote
+{
+    text-align: center;
+    background-color:darkgoldenrod; 
+    
+}
+button
+{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:auto; 
+    display:block
+}
